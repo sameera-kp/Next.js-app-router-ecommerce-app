@@ -50,4 +50,4 @@ Optimized the layout structure for better mobile responsiveness.
 
 Improved TypeScript interface definitions for product data.
 
-Developed by Sameera KP
+Developed by sameera-kp
