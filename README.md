@@ -41,7 +41,7 @@ npm install
 npm run dev
 ```
 5. Access the app
-Open http://localhost:3000 in your browser.
+Open http://localhost:3000 in your browser
 ---
 🔧 Recent Improvements
 Resolved build-time errors related to API route parameters.
