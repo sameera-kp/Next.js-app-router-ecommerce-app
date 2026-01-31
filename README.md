@@ -4,6 +4,8 @@ A high-performance e-commerce application built with **Next.js (App Router)** an
 
 ---
 
+**🚀 Live Demo:** [https://ecommerce-app-app-router.vercel.app/](https://ecommerce-app-app-router.vercel.app/)
+---
 ## ✨ Features
 
 - **Next.js App Router:** Utilizes the latest React Server Components (RSC) and simplified routing.
